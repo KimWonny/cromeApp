@@ -1,0 +1,11 @@
+@import "reset.css";
+/*component*/
+@import "component/status-bar.css";
+@import "component/header-screen.css";
+@import "component/main-screen.css";
+@import "component/nav.css";
+/*screen*/
+@import "screen/login.css";
+body {
+  margin: 3px;
+}

@@ -1,0 +1,8 @@
+.status-bar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.status-bar span {
+  justify-content: flex-start;
+}
