@@ -9,7 +9,7 @@
 @import "screen/login.css";
 @import "screen/home.css";
 @import "screen/search.css";
+@import "screen/plus.css";
 
 body {
-  position: relative;
 }

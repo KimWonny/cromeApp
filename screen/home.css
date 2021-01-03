@@ -4,14 +4,7 @@
 #home-screen .nav__home {
   font-size: 40px;
 }
-#home-screen .header-screen {
-  position: fixed;
-  width: 100%;
-  box-sizing: border-box;
-  background-color: white;
-  z-index: 1;
-  padding-top: 5px;
-}
+
 .main-screen__home {
   display: block;
   padding-top: 10px;
