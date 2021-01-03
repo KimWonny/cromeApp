@@ -1,6 +1,9 @@
 #home-screen {
   height: 900vh;
 }
+#home-screen .nav__home {
+  font-size: 40px;
+}
 #home-screen .header-screen {
   position: fixed;
   width: 100%;

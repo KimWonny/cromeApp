@@ -8,6 +8,7 @@
 /*screen*/
 @import "screen/login.css";
 @import "screen/home.css";
+@import "screen/search.css";
 
 body {
   position: relative;
