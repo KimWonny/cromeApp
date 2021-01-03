@@ -8,7 +8,15 @@
   align-items: center;
   padding: 37px 40px;
   border-top: 1px solid rgba(0, 0, 0, 0.3);
+  background-color: white;
 }
 .nav__icons {
   font-size: 30px;
+}
+.nav__home {
+  font-size: 40px;
+}
+
+.nav__icons:hover i {
+  font-size: 40px;
 }

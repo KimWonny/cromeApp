@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Redressed&display=swap");
 @import "reset.css";
 /*component*/
 @import "component/status-bar.css";
@@ -6,6 +7,8 @@
 @import "component/nav.css";
 /*screen*/
 @import "screen/login.css";
+@import "screen/home.css";
+
 body {
-  margin: 3px;
+  position: relative;
 }
