@@ -1,0 +1,51 @@
+#user-screen .fa-user {
+  font-size: 40px;
+}
+#user-screen img {
+  border: none;
+  width: 100px;
+  height: 100px;
+}
+
+#user-screen .main-screen__column-instastory i {
+  width: 30%;
+  bottom: 15px;
+  right: -5px;
+  font-size: 35px;
+}
+
+#user-screen .main-screen__top {
+  border: none;
+  position: fixed;
+  width: 100%;
+}
+.main-screen__column-contents {
+  width: 70%;
+  padding-top: 30px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-screen__top-count {
+  padding-bottom: 10px;
+}
+.main-screen__column-profile {
+  background-color: var(--blue);
+  color: white;
+
+  text-align: center;
+  padding: 8px 0px;
+  border-radius: 10px;
+  width: 100%;
+}
+.main-screen__column-profile:hover {
+  cursor: progress;
+}
+.main-screen__user {
+  padding-top: 150px;
+}
+#user-screen .main-screen__allow-access {
+  border: none;
+}

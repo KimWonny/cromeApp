@@ -17,56 +17,24 @@
 #search-screen .main-screen__column:last-child {
   margin-top: 60px;
 }
-.main-screen__search {
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0px 5px;
-}
-.main-screen__search i {
-  font-size: 30px;
-}
-.main-screen__search input {
-  width: 90%;
-  background-color: rgba(0, 0, 0, 0.05);
-  border: none;
-  padding: 10px;
-}
-.main-screen__column-more {
-  justify-content: space-between;
-  margin-top: 10px;
-}
-.main-screen__column-more btn {
-  padding: 10px 25px;
-  border: 1px solid rgba(0, 0, 0, 0.2);
-  border-radius: 20px;
-}
-.main-screen__column-more:hover btn {
-  cursor: pointer;
-}
-.main-screen__search:hover {
-  cursor: pointer;
-}
+
 .block-small {
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  height: 133px;
-  width: 133px;
-  background-color: teal;
+  height: 180px;
+  width: 180px;
 }
 .block-big {
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  height: 268px;
-  width: 268px;
-  background-color: yellowgreen;
+  height: 363px;
+  width: 363px;
 }
 .search-screen__user {
   display: flex;
   justify-content: center;
 }
+
 .search-recommened__column {
   display: flex;
+  flex-direction: column;
 }
-.search-screen__recommened {
-  display: block;
+.main-screen__column-more:hover btn {
+  cursor: progress;
 }
