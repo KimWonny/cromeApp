@@ -31,11 +31,11 @@
 .user-friend__upload {
   display: flex;
   justify-content: center;
+
+  width: 500px;
+  height: 500px;
 }
-.user-friend__upload image {
-  width: 300px;
-  height: 300px;
-}
+
 .user-friend__feedback {
   display: flex;
   justify-content: space-between;
