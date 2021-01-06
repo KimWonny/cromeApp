@@ -29,10 +29,12 @@
   font-size: 25px;
 }
 .user-friend__upload {
-  width: 100vw;
-  height: 520px;
   display: flex;
   justify-content: center;
+}
+.user-friend__upload image {
+  width: 300px;
+  height: 300px;
 }
 .user-friend__feedback {
   display: flex;
