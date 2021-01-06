@@ -2,10 +2,10 @@
 @import "reset.css";
 @import "root.css";
 /*component*/
-@import "component/status-bar.css";
-@import "component/header-screen.css";
-@import "component/main-screen.css";
-@import "component/nav.css";
+@import "Component/status-bar.css";
+@import "Component/header-screen.css";
+@import "Component/main-screen.css";
+@import "Component/nav.css";
 /*screen*/
 @import "screen/login.css";
 @import "screen/home.css";
