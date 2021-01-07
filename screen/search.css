@@ -19,12 +19,12 @@
 }
 
 .block-small {
-  height: 180px;
-  width: 180px;
+  height: 160px;
+  width: 160px;
 }
 .block-big {
-  height: 363px;
-  width: 363px;
+  height: 323px;
+  width: 323px;
 }
 .search-screen__user {
   display: flex;

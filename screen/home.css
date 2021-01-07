@@ -26,14 +26,14 @@
   padding-right: 10px;
 }
 .user-friend__icon div {
-  font-size: 25px;
+  font-size: 20px;
 }
 .user-friend__upload {
   display: flex;
   justify-content: center;
 
-  width: 500px;
-  height: 500px;
+  width: 260px;
+  height: 360px;
 }
 
 .user-friend__feedback {
@@ -51,11 +51,11 @@
   display: flex;
   align-items: center;
   padding-left: 10px;
-  font-size: 20px;
+  font-size: 18px;
 }
 .user-friend__likewho img {
-  width: 40px;
-  height: 40px;
+  width: 35px;
+  height: 35px;
   border-radius: 20px;
   margin-right: 10px;
 }
@@ -68,7 +68,7 @@
   margin: 0px 3px;
 }
 .user-friend__contents {
-  font-size: 20px;
+  font-size: 18px;
   padding: 10px 20px;
 }
 .contents__content {

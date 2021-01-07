@@ -3,15 +3,14 @@
 }
 #user-screen img {
   border: none;
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
 }
 
 #user-screen .main-screen__column-instastory i {
-  width: 30%;
   bottom: 15px;
   right: -5px;
-  font-size: 35px;
+  font-size: 28px;
 }
 
 #user-screen .main-screen__top {
@@ -36,15 +35,16 @@
   color: white;
 
   text-align: center;
-  padding: 8px 0px;
+  padding: 5px 0px;
   border-radius: 10px;
-  width: 100%;
+  width: 90%;
+  margin-left: 20px;
 }
 .main-screen__column-profile:hover {
   cursor: progress;
 }
 .main-screen__user {
-  padding-top: 150px;
+  padding-top: 100px;
 }
 #user-screen .main-screen__allow-access {
   border: none;
