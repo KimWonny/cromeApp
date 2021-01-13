@@ -7,8 +7,13 @@
 }
 
 .main-screen__home {
+  width: 100vw;
   display: block;
   padding-top: 10px;
+}
+
+.user-friend {
+  width: 100vw;
 }
 .user-friend__ID {
   display: flex;
