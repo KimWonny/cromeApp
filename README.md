@@ -1,3 +1,2 @@
-# Practice Update
-
-HTML & CSS are so much fun!
+# paintjs
+Painting Board made with VanillaJS
